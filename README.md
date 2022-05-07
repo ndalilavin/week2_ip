@@ -11,7 +11,7 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is an implementation of Week 2 Independent Project - Quick Movers Website. The aim of the project is to show understanding of the concepts learnt in week 2.</p>
+ <p>This project is an implementation of Week 2 Independent Project - Quick Movers Website. The aim of the project is to show understanding of the concepts covered.</p>
 
  ### Installation Process
  ****
