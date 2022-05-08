@@ -208,3 +208,82 @@ hr{
     color: white;
     font-size: medium;
 }
+
+
+/*  Start of movers.html Styling  */
+
+body{
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.2);
+    font-family: 'Actor';
+    
+}
+#section1a{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+}
+.navigbar2{
+    width: 50%;
+    float: right;
+   }
+.menulink{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;  
+}
+.menuitems{
+    list-style-type: none;   
+}
+.menu{
+    text-decoration: none;
+    color: silver;
+}
+.orange{
+    text-decoration: none;
+    color: orange;
+}
+.btnh{
+   text-decoration: none;
+   color: black;
+   font-size: large;
+}
+.forwardarrow{
+    color: white;
+}
+.btn4{
+    height: 50px;
+    width: 200px;
+    background-color: orange;
+    border-top-right-radius: 15px;
+}
+hr{
+    width: 100%;
+    clear: both;
+    height: 10px;
+    color: blue;
+}
+.navbottom{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.tags{
+    color: white;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.undertags{
+    color:grey ;
+    
+}
+.undertags2{
+    color:grey;
+    text-indent: 30px;
+    padding-top: 20px;
+    font-size: 15px;
+}
