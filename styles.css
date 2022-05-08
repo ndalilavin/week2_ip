@@ -101,38 +101,52 @@
     cursor: pointer;
 }
 
-
-
-/* CSS style to put images in Movers div side by side */
-
-.moverImages {
-    width: 600px;
-    height:100px;
+.topmovers {
+    background-color: rgba(128, 128, 128, 0.2);
+    width: 100%;
 }
 
-#leftbox {
-    float: left;
-    width: 180px;
-    height: 160px;
-    background-color: white;
+.headline1 {
+    padding-left: 90px;
+    padding-top: 70px;
 }
 
-#middlebox {
-    float:left;
-    width: 180px;
-    height:160px;
-    background-color: white;
+.imagescontainer{
+    max-width: 90%;
+    height: 100px;
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: space-around;
 }
 
-#rightbox {
-    float:left;
-    width: 180px;
-    height:160px;
-    background-color: white;
+.catalogue {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
+table {
+    margin-top: -9px;
+    width: 360px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #ffff;
+}
 
-table, tr, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
+th {
+    height: 70px;
+    width: 360px;
+    border-bottom: 2px solid grey;
+}
+
+td {
+    height: 50px;
+    text-align: center;
+}
+
+.tdm {
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+}
