@@ -57,6 +57,20 @@
    color: #fff;
 }
 
+.more {
+    display: flex;
+    width: 100%;
+    
+
+
+}
+
+
+
+
+
+
+
 /* CSS style to put images in Movers div side by side */
 
 .moverImages {
