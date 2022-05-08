@@ -467,7 +467,7 @@ td{
 }
 #page1bottom{
     width: 100%;
-    background-color: black;
+    background-color: rgb(27, 29, 14);
     height: fit-content;
 }
 #footer{
@@ -501,9 +501,9 @@ hr{
 .icons{
     width: 10%;
     display: flex;
-  justify-content: center;
-  justify-content: space-around;
-  align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
     
 }
 .manylinks{
