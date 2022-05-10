@@ -92,8 +92,14 @@
     padding-left: 50px;
     padding-top: 200px;
 }
+
+.cut {
+    font-size: 40px;
+}
+
 .whymove{
     color: grey;
+    font-size: 20px;
 }
 .btn3{
     width: fit-content;
