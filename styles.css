@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    
 }
 
 #header {
@@ -63,7 +64,7 @@
 }
 
 .rightSide {
-    padding:
+    padding: 0px;
 }
 
 /*Learn More Section */
@@ -76,19 +77,29 @@
     justify-items: left;
 }
 .leftmidimg{
-    width: 100%;
+    width: 50%;
+    padding-top: 40px;
+
 }
 .moving2{
     width: auto;
-    height: 300px;
+    height: 600px;
 }
 .rightmid{
     padding-top: 40px;
     flex-direction: column;
     align-items: baseline;
+    padding-left: 50px;
+    padding-top: 200px;
 }
+
+.cut {
+    font-size: 40px;
+}
+
 .whymove{
     color: grey;
+    font-size: 20px;
 }
 .btn3{
     width: fit-content;
@@ -104,6 +115,7 @@
 .topmovers {
     background-color: rgba(128, 128, 128, 0.2);
     width: 100%;
+    height: 170vh;
 }
 
 .headline1 {
@@ -124,6 +136,7 @@
 .catalogue {
     display: flex;
     flex-wrap: wrap;
+    margin: 20;
     justify-content: space-between;
 }
 
@@ -208,7 +221,6 @@ hr{
     color: white;
     font-size: medium;
 }
-
 
 /*  Start of movers.html Styling  */
 
@@ -385,7 +397,7 @@ td#advanced{
     border-top: 1px solid grey;
     text-align: center;
 }
-table{
+table2{
     
     margin-top: 30px;
 }
@@ -431,8 +443,9 @@ table{
     text-align: left;
 
 }
-.imagesfcontainer{
+.imagescontainer2{
     max-width:200%;
+    margin-top: 30px;
     height: 500px;
     display: flex;
     flex-direction: row;
@@ -501,6 +514,7 @@ hr{
 .icons{
     width: 10%;
     display: flex;
+    color: white;
     justify-content: center;
     justify-content: space-around;
     align-items: center;
