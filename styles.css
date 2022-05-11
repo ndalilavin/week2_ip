@@ -107,7 +107,7 @@
 .whymove{
     color: grey;
     font-size: 20px;
-}
+}  
 .btn3{
     width: fit-content;
     height: 30px;
@@ -126,7 +126,7 @@
 }
 
 .moversline {
-    border-top: 5px solid rgb(59, 61, 3);
+    border-top: 5px solid rgb(84, 87, 2);
 
 }
 
@@ -179,7 +179,7 @@ td {
 
 #page1bottom{
     width: 100%;
-    background-color: black;
+    background:linear-gradient(to right, black, black, rgb(36, 27, 1));
     height: 400px;
 }
 #footer{
@@ -194,15 +194,19 @@ td {
     text-decoration: none;
     color: orange;
 }
-hr{
+
+.lowerline {
     height: 0.2px;
-    margin-top: 50px;
+    margin-bottom: 10px;
 }
+
 #footerlinks{
     width: 80%;
     display: flex;
     padding-left: 50px;
+    padding-bottom: 100px;
     justify-content: space-between;
+    
 }
 .icons{
     width: 10%;
@@ -491,7 +495,7 @@ td{
     border-left: 2px solid grey;
     border-right: 2px solid grey;
 }
-#page1bottom{
+#page2bottom{
     width: 100%;
     background-color: rgb(27, 29, 14);
     height: fit-content;
