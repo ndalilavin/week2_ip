@@ -93,6 +93,13 @@
     padding-top: 200px;
 }
 
+.toprule {
+    height: 5px;
+    width: 130px;
+    background:linear-gradient(to right, gold, grey,black);
+    
+}
+
 .cut {
     font-size: 40px;
 }
