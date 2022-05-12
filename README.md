@@ -2,7 +2,7 @@
 # Week 2 Independent Project | Quick Movers Website
  ## By Vinson Ndalila
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./assets/images/Screenshot%20from%202022-05-09%2001-30-30.jpg)
  ## Table of Content
  - [Description](#description)
  - [Installation Process](#installation-Process)
